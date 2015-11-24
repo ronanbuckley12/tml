@@ -1,0 +1,132 @@
+html {
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.container-fluid{
+	padding-right: 0px;
+    padding-left: 0px;
+}
+.navbar-inverse .navbar-brand {
+	color:white;
+	font-family: Pacifico;
+	font-size: 25px;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color:white;
+	font-family:Special Elite;
+	font-size: 20px ;
+}
+
+.jumbotron
+{
+background-image:url('../mac1.jpg');
+background-size:cover;
+background-attachment:fixed;
+min-height:600px;
+margin-bottom:0px;
+border-radius: 0px;
+}
+
+.jumbotron2 {
+background-image:url('../sq.jpg');
+background-attachment:default;
+min-height:400px;
+margin-bottom:0px;
+}
+
+.jumbotron3 {
+background-color:#E0E0D1;
+background-attachment:fixed;
+min-height:150px;
+margin-bottom:0px;
+}
+
+#priIntro {
+	text-align: center;
+	color:white;
+	font-size:170px;
+	font-family:Poiret One;
+	
+}
+#secIntro {
+	margin-top:60px;
+	color:white;
+	font-family:Poiret One;
+	font-size: 65px;
+	text-align:center;
+}
+#quote {
+	
+	margin-top: 125px;
+	text-align:center;
+	color:black;
+	font-family: Poiret One;
+	font-size:50px;
+	
+	}
+#quote2 {
+	margin-top: 20px;
+	text-align:center;
+	color:black;
+	font-family: Poiret One;
+	font-size:30px;
+}
+#quote3 {
+	margin-top: 20px;
+	text-align:center;
+	color:black;
+	font-family: Poiret One;
+	font-size:30px;
+}
+#help1 {
+	margin-top:50px;
+	color:#0A0A05;
+	text-align:center;
+	font-family:Poiret One;
+	font-size:40px;
+	
+}
+#helpbutton{
+	color:#0A0A05;
+	font-family:Poiret One;
+	font-size:40px;
+}
+p {
+	text-align:center;
+}
+#ronan {
+	font-family:  Pacifico;
+	font-size:200px;
+}
+
+#wd {
+	
+	font-family: Lobster;
+}
+#sw {
+	font-family: Lobster;
+}
+
+footer
+{
+background-image:url('../blue.jpg');
+min-height:105px;
+}
+
+#RBWD {
+	margin-top: 20px;
+	font-family: Poiret One;
+	font-size:35px;
+	color:white;
+} 
+#FMO {
+	margin-top: 20px;
+	font-family: Poiret One;
+	color:white;
+	font-size:35px;
+	
+}
+
+
+
+
