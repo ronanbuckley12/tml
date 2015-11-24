@@ -8,12 +8,12 @@ html {
 }
 .navbar-inverse .navbar-brand {
 	color:white;
-	font-family: Pacifico;
+	font-family: Abel;
 	font-size: 25px;
 }
 .navbar-inverse .navbar-nav>li>a {
 	color:white;
-	font-family:Special Elite;
+	font-family:Abel;
 	font-size: 20px ;
 }
 
@@ -21,16 +21,16 @@ html {
 {
 background-image:url('../mac1.jpg');
 background-size:cover;
-background-attachment:fixed;
-min-height:600px;
+
+min-height:700px;
 margin-bottom:0px;
 border-radius: 0px;
 }
 
 .jumbotron2 {
-background-image:url('../sq.jpg');
+background-color:white;
 background-attachment:default;
-min-height:400px;
+min-height:600px;
 margin-bottom:0px;
 }
 
@@ -44,7 +44,7 @@ margin-bottom:0px;
 #priIntro {
 	text-align: center;
 	color:white;
-	font-size:170px;
+	font-size:100px;
 	font-family:Poiret One;
 	
 }
@@ -95,8 +95,8 @@ p {
 	text-align:center;
 }
 #ronan {
-	font-family:  Pacifico;
-	font-size:200px;
+	font-family:  Abel;
+	font-size:115px;
 }
 
 #wd {
